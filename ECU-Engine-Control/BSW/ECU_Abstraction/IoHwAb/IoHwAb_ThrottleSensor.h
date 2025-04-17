@@ -8,8 +8,8 @@
  * 
  * @version 1.0
  * @date    2024-12
- * @author  HHN
- *          
+ * @author  
+ *          HHN
  ******************************************************************************/
 
 #ifndef IOHWAB_THROTTLESENSOR_H
